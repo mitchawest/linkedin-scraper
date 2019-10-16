@@ -1,0 +1,5 @@
+# Ignore pycache
+__pycache__/
+
+# Ignore windows chromedriver. Deployment environment is unix
+chromedriver.exe
